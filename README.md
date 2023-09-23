@@ -38,6 +38,9 @@ Query 5 : 모든 고객의 특정 연월 명세서를 출력
 
 일일히 data를 입력하기 보단, dummy data를 생성해주는 *[mockaroo](https://www.mockaroo.com/) 를 사용하였습니다.
 
+### 과제 점수
+Project 2  : 100 / 100
+
 
 
 
